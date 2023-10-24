@@ -1,0 +1,28 @@
+body {
+    font-family: "Helvetica";
+    font-size: 18px;
+  }
+
+a {
+    text-decoration: none;
+}
+#seasons{
+    margin-left: 50px;
+}
+
+#series {
+    margin-left:50px;
+    margin-top: 50px;;
+    margin-right:auto;
+}
+#series thead th{
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: left;
+
+}
+#series tbody td {
+    border: solid 1px #DDEEEE;
+    padding: 10px;
+    text-align: left;
+}
